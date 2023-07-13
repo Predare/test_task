@@ -49,12 +49,12 @@ export default {
         {
           icon: 'mdi-numeric-2',
           title: 'Вторая страница',
-          to: '/second_page'
+          to: '/secondPage'
         },
         {
           icon: 'mdi-numeric-3',
           title: 'Третья страница',
-          to: '/third_page'
+          to: '/thirdPage'
         }
       ],
       miniVariant: false,

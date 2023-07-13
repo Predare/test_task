@@ -32,7 +32,7 @@ export default {
     submitForm() {
       if (this.$refs.dialog_form.validate()) {
         this.setPhone();
-        this.$router.push('/third_page');
+        this.$router.push('/thirdPage');
       }
     }
   },
