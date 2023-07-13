@@ -11,7 +11,7 @@
 
 <script>
 export default {
-  name: 'third_page',
+  name: 'thirdPage',
   computed: {
     formData() {
       return this.$store.state.credentialsForm.credentials;
